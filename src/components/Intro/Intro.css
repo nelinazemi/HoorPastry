@@ -1,0 +1,40 @@
+.hero h1 {
+  margin: 0;
+  font-size: 60px;
+  font-weight: 1000;
+  direction: rtl;
+  font-family: "Hoor";
+  color: #46185f;
+}
+
+.hero h2 {
+  color: #46185f;
+  font-weight: 400;
+  font-family: "Hoor";
+  margin: 15px 0 0 0;
+  direction: rtl;
+  font-size: 60px;
+}
+
+.hero button {
+  text-decoration: none;
+  height: 3rem;
+  line-height: 0;
+  border-radius: 4px;
+  transition: 0.5s;
+  color: #fff;
+  width: 200px;
+  background: #46185f;
+  box-shadow: 0px 5px 30px rgba(65, 84, 241, 0.4);
+}
+
+.hero a {
+  font-family: "Hoor";
+  font-weight: 600;
+  font-size: 30px;
+  letter-spacing: 1px;
+}
+
+.hero .hero-img {
+  text-align: right;
+}

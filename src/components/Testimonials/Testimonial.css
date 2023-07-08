@@ -1,0 +1,31 @@
+h2,
+h3,
+h4,
+p {
+    direction: rtl;
+    font-family: "Hoor";
+    font-size: 25px;
+}
+
+.section-header h2 {
+    font-size: 50px;
+}
+
+.team {
+    align-items: center;
+}
+
+.team .member .member-info h3 {
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.team .member .member-info h4 {
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.team .member .member-info p {
+    font-size: 30px;
+    font-weight: bold;
+}
